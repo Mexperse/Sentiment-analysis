@@ -9,4 +9,4 @@ Ensure the dataset has a column title named review
 
 # Usage
 To run the GUI, please run the following command on Windows
-python main.py
+python main.ipynb
